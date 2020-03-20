@@ -1,2 +1,2 @@
 Ewindow
-An ecommerce api 
+A Laravel based ecommerce api 
